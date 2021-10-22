@@ -19,6 +19,7 @@ We can see the visualization here, along with some formulas we will be using:
 
 We then consider that the ratio of the area of a circle to the area of a square (with the same radius), is the same as the ratio of the number of points in a circle to the number of points in a square (with the same radius).
 This ratio allows us to find our pi value, shown in this equation:
+
 ![Ratio equation](images/ratios.png)
 
 After isolating the equation for pi, we get this:
