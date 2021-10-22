@@ -22,6 +22,7 @@ This ratio allows us to find our pi value, shown in this equation:
 ![Ratio equation](images/ratios.png)
 
 After isolating the equation for pi, we get this:
+
 ![Pi equation](images/equationforpi.png)
 
 ### Distance
@@ -40,6 +41,7 @@ This is because the square root of a number less than 1 is always less than 1, a
 
 #### Proof: Here is a graph of y=x^2 (red) and y=x (blue)
 If we consider x = distance = sqrt(x^2 + y^2), then we can see that values below 1 are still below 1 when squared, and values above 1 are still above 1 when squared.
+
 ![Image of graph here](images/graph1.png)
 
 Knowing this, we can directly compare distance <= 1
